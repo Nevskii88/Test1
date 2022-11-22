@@ -22,3 +22,4 @@
 
 **git branch name** - создание ветки
 **git branch** - список веток
+**git branch -b name** - удалить данную ветку
