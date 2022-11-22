@@ -19,5 +19,3 @@
 ## Памятка по **Git** :[Часть №1](https://habr.com/ru/post/541258/), [Часть №2](https://habr.com/ru/post/542616/)
 
 ![Картинка](https://guu.ru/wp-content/uploads/digitization-5180477_1920.jpg)
-
-**git branch name** - создание ветки 
