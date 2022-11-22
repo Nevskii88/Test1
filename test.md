@@ -20,4 +20,4 @@
 
 ![Картинка](https://guu.ru/wp-content/uploads/digitization-5180477_1920.jpg)
 
-**git branch name** - создание ветки 
+**git branch name** - создание ветки
