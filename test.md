@@ -21,6 +21,9 @@
 ![Картинка](https://guu.ru/wp-content/uploads/digitization-5180477_1920.jpg)
 
 **git branch name** - создание ветки
+
 **git branch** - список веток
+
 **git branch -b name** - удалить данную ветку
+
 **git merge name** - слияние информации заданной ветки в ту, в которой на данный момент находится пользователь 
